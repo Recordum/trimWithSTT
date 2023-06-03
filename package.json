@@ -2,6 +2,7 @@
   "dependencies": {
     "@google-cloud/speech": "^5.5.0",
     "axios": "^1.4.0",
+    "deepspeech": "^0.9.3",
     "request": "^2.88.2"
   }
 }
